@@ -1,0 +1,371 @@
+{
+ "version": 1,
+ "categories": [
+  {
+   "id": "cold-espresso",
+   "title": "نوشیدنی سرد بر پایه اسپرسو",
+   "items": [
+    {
+     "id": "cold-01",
+     "name": "آیس امریکانو",
+     "price": 285,
+     "image": "img/products/cold-01.webp"
+    },
+    {
+     "id": "cold-02",
+     "name": "آیس لاته",
+     "price": 365,
+     "image": "img/products/cold-02.webp"
+    },
+    {
+     "id": "cold-03",
+     "name": "آیس موکا",
+     "price": 395,
+     "image": "img/products/cold-03.webp"
+    },
+    {
+     "id": "cold-04",
+     "name": "آیس لیوناد اسپرسو",
+     "price": 380,
+     "image": "img/products/cold-04.webp"
+    },
+    {
+     "id": "cold-05",
+     "name": "آیس اورنج اسپرسو",
+     "price": 415,
+     "image": "img/products/cold-05.webp"
+    },
+    {
+     "id": "cold-06",
+     "name": "کوک اسپرسو",
+     "price": 390,
+     "image": "img/products/cold-06.webp"
+    },
+    {
+     "id": "cold-07",
+     "name": "آیس تی",
+     "price": 180,
+     "image": "img/products/cold-07.webp"
+    }
+   ]
+  },
+  {
+   "id": "espresso-bar",
+   "title": "اسپرسو بار",
+   "items": [
+    {
+     "id": "esp-01",
+     "name": "اسپرسو",
+     "price": 280,
+     "image": "img/products/esp-01.webp"
+    },
+    {
+     "id": "esp-02",
+     "name": "کاپوچینو",
+     "price": 310,
+     "image": "img/products/esp-02.webp"
+    },
+    {
+     "id": "esp-03",
+     "name": "کورتادو",
+     "price": 310,
+     "image": "img/products/esp-03.webp"
+    },
+    {
+     "id": "esp-04",
+     "name": "لاته",
+     "price": 350,
+     "image": "img/products/esp-04.webp"
+    },
+    {
+     "id": "esp-05",
+     "name": "لاته لوتوس",
+     "price": 395,
+     "image": "img/products/esp-05.webp"
+    },
+    {
+     "id": "esp-06",
+     "name": "موکا",
+     "price": 380,
+     "image": "img/products/esp-06.webp"
+    },
+    {
+     "id": "esp-07",
+     "name": "امریکانو",
+     "price": 280,
+     "image": "img/products/esp-07.webp"
+    },
+    {
+     "id": "esp-08",
+     "name": "آفوگاتو",
+     "price": 420,
+     "image": "img/products/esp-08.webp"
+    },
+    {
+     "id": "esp-09",
+     "name": "ترک",
+     "price": 255,
+     "image": "img/products/esp-09.webp"
+    },
+    {
+     "id": "esp-10",
+     "name": "نسکافه",
+     "price": 295,
+     "image": "img/products/esp-10.webp"
+    }
+   ]
+  },
+  {
+   "id": "tea",
+   "title": "چای و دمنوش",
+   "items": [
+    {
+     "id": "tea-01",
+     "name": "چای سیاه",
+     "price": 195,
+     "image": "img/products/tea-01.webp"
+    },
+    {
+     "id": "tea-02",
+     "name": "چای معطر",
+     "price": 270,
+     "image": "img/products/tea-02.webp"
+    },
+    {
+     "id": "tea-03",
+     "name": "چای ترش",
+     "price": 255,
+     "image": "img/products/tea-03.webp"
+    },
+    {
+     "id": "tea-04",
+     "name": "چای سبز",
+     "price": 210,
+     "image": "img/products/tea-04.webp"
+    },
+    {
+     "id": "tea-05",
+     "name": "چای زعفران",
+     "price": 280,
+     "image": "img/products/tea-05.webp"
+    },
+    {
+     "id": "tea-06",
+     "name": "ماه بی بی",
+     "price": 310,
+     "image": "img/products/tea-06.webp"
+    },
+    {
+     "id": "tea-07",
+     "name": "نقش جهان",
+     "price": 330,
+     "image": "img/products/tea-07.webp"
+    },
+    {
+     "id": "tea-08",
+     "name": "آرامش",
+     "price": 310,
+     "image": "img/products/tea-08.webp"
+    }
+   ]
+  },
+  {
+   "id": "hot-bar",
+   "title": "بار گرم",
+   "items": [
+    {
+     "id": "hot-01",
+     "name": "هات چاکلت",
+     "price": 350,
+     "image": "img/products/hot-01.webp"
+    },
+    {
+     "id": "hot-02",
+     "name": "ماسالا",
+     "price": 320,
+     "image": "img/products/hot-02.webp"
+    },
+    {
+     "id": "hot-03",
+     "name": "چای کرک زعفرانی",
+     "price": 310,
+     "image": "img/products/hot-03.webp"
+    },
+    {
+     "id": "hot-04",
+     "name": "هات کوکو",
+     "price": 290,
+     "image": "img/products/hot-04.webp"
+    },
+    {
+     "id": "hot-05",
+     "name": "شیر عسل",
+     "price": 190,
+     "image": "img/products/hot-05.webp"
+    },
+    {
+     "id": "hot-06",
+     "name": "شیر نسکافه",
+     "price": 320,
+     "image": "img/products/hot-06.webp"
+    }
+   ]
+  },
+  {
+   "id": "mocktail",
+   "title": "موکتل",
+   "items": [
+    {
+     "id": "mock-01",
+     "name": "لیموناد",
+     "price": 210,
+     "image": "img/products/mock-01.webp"
+    },
+    {
+     "id": "mock-02",
+     "name": "موهیتو",
+     "price": 230,
+     "image": "img/products/mock-02.webp"
+    },
+    {
+     "id": "mock-03",
+     "name": "رد موهیتو",
+     "price": 260,
+     "image": "img/products/mock-03.webp"
+    },
+    {
+     "id": "mock-04",
+     "name": "موهیتو انبه",
+     "price": 330,
+     "image": "img/products/mock-04.webp"
+    }
+   ]
+  },
+  {
+   "id": "shake",
+   "title": "شیک",
+   "items": [
+    {
+     "id": "shake-01",
+     "name": "نوتلا",
+     "price": 460,
+     "image": "img/products/shake-01.webp"
+    },
+    {
+     "id": "shake-02",
+     "name": "پینات",
+     "price": 380,
+     "image": "img/products/shake-02.webp"
+    },
+    {
+     "id": "shake-03",
+     "name": "اسپرسو",
+     "price": 390,
+     "image": "img/products/shake-03.webp"
+    },
+    {
+     "id": "shake-04",
+     "name": "اورئو",
+     "price": 425,
+     "image": "img/products/shake-04.webp"
+    },
+    {
+     "id": "shake-05",
+     "name": "وانیل",
+     "price": 290,
+     "image": "img/products/shake-05.webp"
+    }
+   ]
+  },
+  {
+   "id": "smoothie",
+   "title": "اسموتی",
+   "items": [
+    {
+     "id": "smo-01",
+     "name": "اورنج بری",
+     "price": 320,
+     "image": "img/products/smo-01.webp"
+    },
+    {
+     "id": "smo-02",
+     "name": "تی بری",
+     "price": 340,
+     "image": "img/products/smo-02.webp"
+    },
+    {
+     "id": "smo-03",
+     "name": "منگوبری",
+     "price": 395,
+     "image": "img/products/smo-03.webp"
+    }
+   ]
+  },
+  {
+   "id": "sharbat",
+   "title": "شربت",
+   "items": [
+    {
+     "id": "shar-01",
+     "name": "خیار سکنجبین",
+     "price": 230,
+     "image": "img/products/shar-01.webp"
+    },
+    {
+     "id": "shar-02",
+     "name": "زعفران خاکشیر",
+     "price": 250,
+     "image": "img/products/shar-02.webp"
+    },
+    {
+     "id": "shar-03",
+     "name": "بهارنارنج",
+     "price": 210,
+     "image": "img/products/shar-03.webp"
+    },
+    {
+     "id": "shar-04",
+     "name": "بیدمشک",
+     "price": 310,
+     "image": "img/products/shar-04.webp"
+    }
+   ]
+  },
+  {
+   "id": "cake",
+   "title": "کیک",
+   "items": [
+    {
+     "id": "cake-01",
+     "name": "شکلاتی",
+     "price": null,
+     "image": "img/products/cake-01.webp"
+    },
+    {
+     "id": "cake-02",
+     "name": "عسل روسی",
+     "price": null,
+     "image": "img/products/cake-02.webp"
+    },
+    {
+     "id": "cake-03",
+     "name": "سن سباستین",
+     "price": null,
+     "image": "img/products/cake-03.webp"
+    },
+    {
+     "id": "cake-04",
+     "name": "هویج گردو",
+     "price": null,
+     "image": "img/products/cake-04.webp"
+    },
+    {
+     "id": "cake-05",
+     "name": "پسته توت فرنگی",
+     "price": null,
+     "image": "img/products/cake-05.webp"
+    }
+   ]
+  }
+ ]
+}
